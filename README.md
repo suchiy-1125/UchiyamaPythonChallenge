@@ -1,0 +1,2 @@
+# UchiyamaPythonChallenge
+Week 3
